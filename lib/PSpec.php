@@ -1,5 +1,10 @@
 <?php
 namespace PSpec;
+/**
+* PSpec Project
+* Licence: creative commons bla bla bla....
+*
+*/
 
 require_once 'setup.php';
 require_once 'debug/Dbg.php';
